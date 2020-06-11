@@ -19,7 +19,7 @@ Resource types:
 🎁- Free Resource  
 🏆 - Exercises
 
-### \*\*\*\*📌 **Artificial Intelligence**
+## \*\*\*\*📌 **Artificial Intelligence**
 
 1. ​[Artificial Intelligence A-Z™: Learn How To Build An AI](https://career.guru99.com/recommends/artificialintelligence-1/)​
 2. ​[Artificial Intelligence](https://career.guru99.com/recommends/artificialintelligence-2/)​
@@ -56,7 +56,7 @@ Resource types:
 33. ​[Artificial Intelligence Certification: Learn How To Build An AI \(Udemy\)](https://click.linksynergy.com/deeplink?id=vedj0cWlu2Y&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fartificial-intelligence-az%2F)​
 34. ​[Artificial Intelligence Course with Python \(Udemy\)](https://click.linksynergy.com/deeplink?id=vedj0cWlu2Y&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fdata-science-and-machine-learning-with-python-hands-on%2F)​
 
-### 📌 Machine Learning <a id="machine-learning"></a>
+## 📌 Machine Learning
 
 1. ​[Machine Learning A-Z](https://career.guru99.com/recommends/machinelearning-1/)​
 2. ​[Machine Learning Specialization](https://career.guru99.com/recommends/machinelearning-2/)​
@@ -74,7 +74,7 @@ Resource types:
 14. ​[Learn AI from ML experts at Google \(Google\)](https://ai.google/education/)​
 15. ​[Machine Learning Certification from University of Washington \(Coursera\)](https://click.linksynergy.com/deeplink?id=vedj0cWlu2Y&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fmachine-learning)​
 
-### 📌 Deep Learning <a id="deep-learning"></a>
+## 📌 Deep Learning
 
 1. [Complete Guide to TensorFlow for Deep Learning with Python](https://career.guru99.com/recommends/deeplearning-2/)
 2. [Deep Learning Specialization](https://career.guru99.com/recommends/deeplearning-1/)
