@@ -21,7 +21,7 @@ Resource types:
 
 ![Blockchain Developer RoadMap](.gitbook/assets/blockchain-roadmap.png)
 
-## 📌 Articles📑
+## 📌 Articles 📑 
 
 1. Read [Blockchain- \(Explain Like I’m 5\)](https://medium.com/%40vijay.betigiri/blockchain-explained-like-im-5-yrs-5f04b91b059c) or [Explain like I’m 5: Blockchain](https://www.linkedin.com/pulse/blockchain-5th-graders-hayley-somerville)
 2. Read \*\*\*\*[bitcoinbook](https://github.com/bitcoinbook/bitcoinbook)
@@ -271,7 +271,7 @@ Resource types:
 246. [Build Your First Smart Contract](https://medium.com/crypto-currently/build-your-first-smart-contract-fc36a8ff50ca), _Crypto Currently:_ Ready to try programming a contract yourself? This tutorial provides the resources.
 247. [Bitcoin and Cryptocurrency Technologies](https://www.coursera.org/learn/cryptocurrency), _Coursera_: The ﬁrst sections provide a detailed technical overview of how crypto and blockchains work. This course was created a few years ago, so the use cases are outdated.
 
-## 📌 Videos📽
+## 📌 Videos 📽 
 
 * 1. Watch [Explaining Blockchain to 5 different Generations](https://www.youtube.com/watch?v=hYip_Vuv8J0)
   2. Watch [How does a blockchain work](https://www.youtube.com/watch?v=SSo_EIwHSd4)
@@ -363,7 +363,7 @@ Resource types:
   88. [The Value of Blockchains](https://www.youtube.com/watch?v=YIVAluSL9SU)
   89. [DeFi Educational Videos by Chris Blec](https://youtube.com/chrisblec)
 
-## 📌 Whitepapers📃
+##  📌 Whitepapers 📃 
 
 1. [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf)
 2. [Ethereum Whitepaper](https://github.com/ethereum/wiki/wiki/White-Paper)
@@ -391,7 +391,7 @@ Resource types:
 24. [Some Simple Economics of the Blockchain](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2874598)
 25. [Smart Contracts and Distributed Ledger – A Legal Perspective](https://www.isda.org/a/6EKDE/smart-contracts-and-distributed-ledger-a-legal-perspective.pdf), ISDA: An in-depth white paper
 
-## 📌 Books📚
+## 📌 Books 📚 
 
 * 1. [Mastering Bitcoin](https://github.com/aantonop/bitcoinbook) by Andreas M. Antonopoulos LLC
   2. [Blockchain By Example =&gt;https://www.packtpub.com/big-data-and-business- intelligence/blockchain-example](https://www.packtpub.com/big-data-and-business-intelligence/blockchain-example)
@@ -447,7 +447,7 @@ Resource types:
   52. [How is Fiat Money Possible?](https://mises-media.s3.amazonaws.com/rae7_2_3_3.pdf)
   53. [The Mystery of Banking](https://www.amazon.com/dp/1933550287)
 
-## 📌 Podcasts🎙
+## 📌 Podcasts 🎙 
 
 1. [Disruptor Daily » Blockchain Disruption](https://www.disruptordaily.com/category/podcast/)
 2. [Get Inﬂuential Bloggers Contacts](https://bi.11fs.com/episodes)
@@ -535,7 +535,7 @@ Resource types:
 6. [https://ethbuenosaires.com/](https://ethbuenosaires.com/)
 7. [https://ethdenver.com/](https://ethdenver.com/)
 
-## 📌 Newsletters📧
+## 📌 Newsletters 📧 
 
 1. [EthHub Weekly Newsletter](https://ethhub.substack.com/)
 2. [Week In Ethereum](https://weekinethereumnews.com/)
