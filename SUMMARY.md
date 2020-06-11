@@ -5,4 +5,5 @@
 * [📌Web Development](web-development.md)
 * [📌Awesome Mixed Resources](awesome-mixed-resources.md)
 * [📌Best GitHub Repos](best-github-repos.md)
+* [📌Mixed PDFs](mixed-pdfs.md)
 
