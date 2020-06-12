@@ -11,7 +11,7 @@ description: >-
 
 **Welcome to Z.Community Resources**
 
-**About** [**Z.Community**](https://community.zubi.io) **-** India’s Largest Emerge Tech Community. With an AIM to create “Workforce For The Future”. We at [Z.Community](https://community.zubi.io) \(Zubi\) having a vision to aware each and every single student/developer/working professional with the Emerging Technologies and make them part of our journey towards emerge tech ready world, which is capable of solving the real life problems to make this world a better sustainable place.
+**About** [**Z.Community**](https://community.zubi.io) **-** India’s Largest Emerge Tech Community with an AIM to create “Workforce For The Future”. We at [Z.Community](https://community.zubi.io) \(Zubi\) having a vision to aware each and every single student/developer/working professional with the Emerging Technologies and make them part of our journey towards emerge tech ready world, which is capable of solving the real life problems to make this world a better sustainable place.
 
 
 
