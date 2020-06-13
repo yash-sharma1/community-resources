@@ -5,7 +5,7 @@ description: >-
   technologies etc.✨
 ---
 
-# 📌Awesome Mixed Resources
+# 📌A to Z Resources
 
 > #### _**"We’re here for a reason. I believe a bit of the reason is to throw little torches out to lead people through the dark.” — Whoopi Goldberg**_
 
