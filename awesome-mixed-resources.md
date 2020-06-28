@@ -446,6 +446,7 @@ description: >-
 
 ## JavaScript
 
+* \*\*\*\*[A brief history of Javascript](https://auth0.com/blog/a-brief-history-of-javascript/) \(Must Read\)
 * [FreeCodeCamp](https://freecodecamp.com)
 * [The Odin Project](https://www.theodinproject.com/)
 * [Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
