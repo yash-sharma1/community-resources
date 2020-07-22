@@ -21,3 +21,5 @@ I'm having 3+ years of working experience in the domain of web development, bloc
 * Developer Circles from Facebook - Jaipur \(Core Team Member\)
 * JaipurJS \(Co-organizer\)
 
+![Developer&apos;s Manifesto](.gitbook/assets/ezgif.com-webp-to-png.png)
+
