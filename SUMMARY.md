@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👋 He11o](README.md)
+* [👋 Welcome](README.md)
 * [📌Blockchain Resources](blockchain-resources.md)
 * [📌AI/ML/DL](ai-ml-dl.md)
 * [📌Web Development](web-development.md)

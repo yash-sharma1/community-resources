@@ -5,7 +5,7 @@ description: >-
   free to add resources from your side as well.
 ---
 
-# 👋 He11o
+# 👋 Welcome
 
 Hola Amigos 👋  
 My name is Yash Sharma and I'm based in India. I'm a Tech, DevRel and Community enthusiast. I LOVE to meet new people, disccuss about tech stuff, products and communities.  
