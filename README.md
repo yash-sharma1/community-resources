@@ -5,15 +5,19 @@ description: >-
   free to add resources from your side as well.
 ---
 
-# 👋Introduction
+# 👋 He11o
 
-![Z.Community](.gitbook/assets/whatsapp-image-2020-03-16-at-8.46.01-pm.jpg)
-
-**Welcome to Z.Community Resources**
-
-**About** [**Z.Community**](https://community.zubi.io) **-** India’s Largest Emerge Tech Community with an AIM to create “Workforce For The Future”. We at [**Z.Community**](https://community.zubi.io) ****\(Zubi\) having a vision to aware each and every single student/developer/working professional with the Emerging Technologies and make them part of our journey towards emerge tech ready world, which is capable of solving the real life problems to make this world a better sustainable place.
+Hola Amigos 👋  
+My name is Yash Sharma and I'm based in India. I'm a Tech, DevRel and Community enthusiast. I LOVE to meet new people, disccuss about tech stuff, products and communities.  
+I'm having 3+ years of working experience in the domain of web development, blockchain, and tech communities. I taught and mentor 3000+ students through hackathons, meetups, conferences, and webinars. 2+ years of experience in professional community management. Delivered several talks and sessions on blockchain and other emerging technologies. I influence emerge tech and support communities to empower students and developers for establishing a better tech ecosystem.  
 
 
+![](.gitbook/assets/modern-photo-events-and-education-facebook-post.png)
 
-\*\*\*\*
+## Communities I Manage
+
+* Zubi \(Z.Community\) - Community Manager
+* Script Foundation India \(North India Region Head\)
+* Developer Circles from Facebook - Jaipur \(Core Team Member\)
+* JaipurJS \(Co-organizer\)
 
