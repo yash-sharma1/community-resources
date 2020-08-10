@@ -17,9 +17,9 @@ I'm having 3+ years of working experience in the domain of web development, bloc
 ## Communities I Manage
 
 * Zubi \(Z.Community\) - Community Manager
-* Script Foundation India \(North India Region Head\)
 * Developer Circles from Facebook - Jaipur \(Core Team Member\)
 * JaipurJS \(Co-organizer\)
+* Formerly - Script Foundation India \(North India Region Head\)
 
 ![Developer&apos;s Manifesto](.gitbook/assets/ezgif.com-webp-to-png.png)
 
