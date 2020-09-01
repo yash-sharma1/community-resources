@@ -23,5 +23,3 @@ I'm having 3+ years of working experience in the domain of web development, bloc
 
 ![Developer&apos;s Manifesto](.gitbook/assets/ezgif.com-webp-to-png.png)
 
-
-
