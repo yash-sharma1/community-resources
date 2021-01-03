@@ -24,7 +24,7 @@ Resource types:
 ## 📌 Articles 📑 
 
 1. Read [Blockchain- \(Explain Like I’m 5\)](https://medium.com/%40vijay.betigiri/blockchain-explained-like-im-5-yrs-5f04b91b059c) or [Explain like I’m 5: Blockchain](https://www.linkedin.com/pulse/blockchain-5th-graders-hayley-somerville)
-2. Read [bitcoinbook](https://github.com/bitcoinbook/bitcoinbook)
+2. Read \*\*\*\*[bitcoinbook](https://github.com/bitcoinbook/bitcoinbook)
 3. Read [What is Blockchain Technology? A Step-by-Step Guide For Beginners!](https://blockgeeks.com/guides/what-is-blockchain-technology/)
 4. Read [Learn All About Cryptocurrencies Cryptography: How Does it All Work?](https://blockgeeks.com/guides/cryptocurrencies-cryptography/)
 5. Read [What is Cryptocurrency?](https://blockgeeks.com/guides/what-is-cryptocurrency/)
