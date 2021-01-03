@@ -2,7 +2,6 @@
 
 * [👋 Welcome](README.md)
 * [📌Blockchain Resources](blockchain-resources.md)
-* [📌AI/ML/DL](ai-ml-dl.md)
 * [📌Web Development](web-development.md)
 * [📌A to Z Resources](awesome-mixed-resources.md)
 * [📌Best GitHub Repos](best-github-repos.md)
@@ -36,4 +35,5 @@
   * [webpack-tutorials](untitled/webpack-tutorials.md)
 * [📌NodeJS](untitled-1.md)
 * [📌React Native](react-native.md)
+* [📌AI/ML/DL](ai-ml-dl.md)
 
