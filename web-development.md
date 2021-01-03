@@ -4,7 +4,7 @@ description: >-
   into Full Stack Web Development.✨
 ---
 
-# 📌Web Development
+# Web Development
 
 ![Web Development RoadMap](.gitbook/assets/intro.png)
 

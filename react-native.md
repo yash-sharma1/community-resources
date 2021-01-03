@@ -4,7 +4,7 @@ description: >-
   into React Native.✨
 ---
 
-# 📌React Native
+# React Native
 
 ## Experiences/Case studies 📃
 

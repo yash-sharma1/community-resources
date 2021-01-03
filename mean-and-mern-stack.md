@@ -4,7 +4,7 @@ description: >-
   into MERN, MEAN, MEVN and LAMP stack of software development.✨
 ---
 
-# 📌MEAN & MERN Stack
+# MEAN & MERN Stack
 
 ## Articles 📄 
 

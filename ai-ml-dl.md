@@ -4,7 +4,7 @@ description: >-
   into Emerging Technologies like AI, ML and DL.✨
 ---
 
-# 📌AI/ML/DL
+# AI/ML/DL
 
 This is a visual roadmap for beginners venturing into the World of Software Development. In order not to feel overwhelmed by how much you need to know about Emerging Technologies. This roadmap serves as a guide through out your journey. You can follow through this guide and be assured you are on the right path.
 

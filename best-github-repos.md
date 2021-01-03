@@ -5,7 +5,7 @@ description: >-
   emerging technologies etc.✨
 ---
 
-# 📌Best GitHub Repos
+# Best GitHub Repos
 
 1. **Texthero** \([https://github.com/jbesomi/texthero](https://github.com/jbesomi/texthero)\) -Texthero is a Python package for working with text-based data. It is designed to be used on top of Pandas. Texthero includes tools for preprocessing text data, natural language processing, text representation, vector space analysis, and text visualization. Examples are provided in the repository.
 2. **Easy OCR** \([https://github.com/JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR)\) -Easy OCR is a package for detecting text in images. It supports 42 languages, including Chinese, Japanese, Korean, and Thai. Examples and a list of supported languages are available in the repository.
