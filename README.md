@@ -15,9 +15,10 @@ I'm having 3+ years of working experience in the domain of web development, bloc
 
 ## Communities I Manage
 
-* Zubi \(Z.Community\) - Community Manager
+* Currently working at Figment as Developer Relations
 * Developer Circles from Facebook - Jaipur \(Core Team Member\)
-* JaipurJS \(Co-organizer\)
+* Formerly JaipurJS \(Co-organizer\)
+* Formerly Zubi \(Z.Community\) - Community Manager
 * Formerly - Script Foundation India \(North India Region Head\)
 
 ![Developer&apos;s Manifesto](.gitbook/assets/ezgif.com-webp-to-png.png)
