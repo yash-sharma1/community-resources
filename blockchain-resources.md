@@ -4,7 +4,7 @@ description: >-
   into Blockchain.✨
 ---
 
-# Blockchain Resources \(Web3\)
+# Blockchain Resources
 
 This is a visual roadmap for beginners venturing into the World of Software Development. In order not to feel overwhelmed by how much you need to know to be a Blockchain Developer. This roadmap serves as a guide throughout your journey. You can follow through with this guide and be assured you are on the right path.
 
