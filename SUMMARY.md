@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Welcome!!](README.md)
-* [Blockchain Resources](blockchain-resources.md)
+* [Blockchain Resources \(Web3\)](blockchain-resources.md)
 * [Web Development](web-development.md)
 * [A to Z Resources](awesome-mixed-resources.md)
 * [Best GitHub Repos](best-github-repos.md)
