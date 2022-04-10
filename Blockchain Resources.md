@@ -273,7 +273,7 @@ Resource types:
 
 ## 📌 Videos 📽 
 
-* 1. Watch [Explaining Blockchain to 5 different Generations](https://www.youtube.com/watch?v=hYip_Vuv8J0)
+  1. Watch [Explaining Blockchain to 5 different Generations](https://www.youtube.com/watch?v=hYip_Vuv8J0)
   2. Watch [How does a blockchain work](https://www.youtube.com/watch?v=SSo_EIwHSd4)
   3. Watch [How does bitcoin actually work?](https://www.youtube.com/watch?v=bBC-nXj3Ng4)
   4. Watch [Smart contracts - Simply Explained](https://www.youtube.com/watch?v=ZE2HxTmxfrI)
