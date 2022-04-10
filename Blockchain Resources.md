@@ -393,7 +393,7 @@ Resource types:
 
 ## 📌 Books 📚 
 
-* 1. [Mastering Bitcoin](https://github.com/aantonop/bitcoinbook) by Andreas M. Antonopoulos LLC
+  1. [Mastering Bitcoin](https://github.com/aantonop/bitcoinbook) by Andreas M. Antonopoulos LLC
   2. [Blockchain By Example =&gt;https://www.packtpub.com/big-data-and-business- intelligence/blockchain-example](https://www.packtpub.com/big-data-and-business-intelligence/blockchain-example)
   3. [Blockchain Explained: A Technology Guide to the Bitcoin and Cryptocurrency Fintech Revolution - R.J Simmons](https://www.amazon.com/Blockchain-Explained-Technology-Cryptocurrency-Revolution/dp/1535315946/ref%3Dpd_sim_14_5?_encoding=UTF8&pd_rd_i=1535315946&pd_rd_r=615DFBPATQX6GX4RBPWP&pd_rd_w=96Va0&pd_rd_wg=M6xmm&psc=1&refRID=615DFBPATQX6GX4RBPWP)
   4. [Blockchain Fast and Simple - What It Is, How It Works, Why It Matters: Understand the basics, join the revolution - Pierro Martini](https://www.amazon.com/Blockchain-Fast-Simple-Understand-revolution-ebook/dp/B01M1J671W/ref%3Dsr_1_1?s=books&ie=UTF8&qid=1476984683&sr=1-1&keywords=Blockchain%2BFast%2Band%2BSimple%2B-%2BWhat%2BIt%2BIs%2C%2BHow%2BIt%2BWorks%2C%2BWhy%2BIt%2BMatters%3A%2BUnderstand%2Bthe%2Bbasics%2C%2Bjoin%2Bthe%2Brevolution)
