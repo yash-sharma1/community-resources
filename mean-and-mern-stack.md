@@ -6,7 +6,7 @@ description: >-
 
 # MEAN & MERN Stack
 
-## Articles 📄 
+## Articles :page\_facing\_up:&#x20;
 
 * [Full-Stack JavaScript With MEAN And Yeoman](http://addyosmani.com/blog/full-stack-javascript-with-mean-and-yeoman/)
 * [Build a real-time polls application with Node.js, Express, AngularJS, and MongoDB](http://www.ibm.com/developerworks/library/wa-nodejs-polling-app/)
@@ -26,8 +26,8 @@ description: >-
 * [Continuous Integration with the MEAN Stack](http://attackofzach.com/continuous-integration-with-the-mean-stack/)
 * [Intro to the MEAN Stack - Part 1 - The Data](http://progadventure.blogspot.com.br/2013/11/intro-to-mean-stack-part-1-data.html)
 * [REST Service with Web Interface using the MEAN Stack](http://www.qat.com/rest-service-web-interface-using-mean-stack/)
-* [MEAN Stack Resources \(MongoDB, ExpressJS, AngularJS & Node.js\)](http://www.eightytwenty.co/mean-stack-resources-mongodb-expressjs-angularjs-node-js/)
-* [Getting Started with Node.js \#2: Using OAuth2 in MEAN applications](https://xorcode.com/code/2013/08/22/getting-started-with-node-js-using-oauth2-in-mean.html)
+* [MEAN Stack Resources (MongoDB, ExpressJS, AngularJS & Node.js)](http://www.eightytwenty.co/mean-stack-resources-mongodb-expressjs-angularjs-node-js/)
+* [Getting Started with Node.js #2: Using OAuth2 in MEAN applications](https://xorcode.com/code/2013/08/22/getting-started-with-node-js-using-oauth2-in-mean.html)
 * [Introduction to the MEAN Stack](http://code.tutsplus.com/tutorials/introduction-to-the-mean-stack--cms-19918)
 * [Creating an RSS Feed Reader With the MEAN Stack](http://code.tutsplus.com/tutorials/creating-an-rss-feed-reader-with-the-mean-stack--cms-20563)
 * [Introduction to the MEAN Stack - SitePoint](http://www.sitepoint.com/introduction-mean-stack/)
@@ -40,15 +40,15 @@ description: >-
 * MEAN Stack : Real-time polls application - [part 1](http://www.bogotobogo.com/MEAN-Stack/MEAN-Stack-MongoDB-ExpressJS-AngularJS-NodeJS-PollsApp-1.php), [part 2](http://www.bogotobogo.com/MEAN-Stack/MEAN-Stack-MongoDB-ExpressJS-AngularJS-NodeJS-PollsApp-2.php)
 * [MEAN Stack Angular 6 CRUD Web Application](https://www.djamware.com/post/5b00bb9180aca726dee1fd6d/mean-stack-angular-6-crud-web-application)
 
-## Videos📽 
+## Videos:projector:&#x20;
 
 * [Getting MEAN](https://www.youtube.com/watch?v=XwSFg8nqBFA)
 * [Introduction to the MEAN Stack](https://www.youtube.com/watch?v=1Sy3vWJ1N2U)
-* [Build a real-time polls application with Node.js, Express, AngularJS, and MongoDB](https://www.youtube.com/watch?v=9LFsQSNrQ_U)
-* [Let's Get CRUDdy: AngularJS and Node.js Ferrari Example](https://www.youtube.com/watch?v=T-luUYq_obQ)
-* [M.E.A.N. - a stack do hipsters \(pt-br\)](https://www.youtube.com/watch?v=7m_XmSJxSg8)
+* [Build a real-time polls application with Node.js, Express, AngularJS, and MongoDB](https://www.youtube.com/watch?v=9LFsQSNrQ\_U)
+* [Let's Get CRUDdy: AngularJS and Node.js Ferrari Example](https://www.youtube.com/watch?v=T-luUYq\_obQ)
+* [M.E.A.N. - a stack do hipsters (pt-br)](https://www.youtube.com/watch?v=7m\_XmSJxSg8)
 * [MEAN stack - episode 1](http://tagtree.tv/mean-stack-episode1)
-* [MEAN Stack RESTful API tutorial](https://www.youtube.com/watch?v=kHV7gOHvNdk&list=PLX2HoWE32I8Nkzw2TqcifObuhgJZz8a0U)
+* [MEAN Stack RESTful API tutorial](https://www.youtube.com/watch?v=kHV7gOHvNdk\&list=PLX2HoWE32I8Nkzw2TqcifObuhgJZz8a0U)
 * [Master the MEAN Stack - Learn By Example](https://www.udemy.com/master-the-mean-stack/)
 * [Mean stack for beginners](https://www.udemy.com/mean-stack-for-beginners/)
 * [Mastering MEAN Web Development](https://www.udemy.com/mastering-mean-web-development/)
@@ -57,7 +57,7 @@ description: >-
 * [MEAN Stack For Web Developers: Build Websites on Javascript](https://www.udemy.com/javascript-based-website-in-minutes-using-the-mean-stack/learn/v4/overview)
 * [Mastering MEAN Web Development: Expert Full Stack JavaScript](https://www.udemy.com/mastering-mean-web-development-expert-full-stack-javascript/)
 
-## Courses 🎞 
+## Courses :film\_frames:&#x20;
 
 * [The complete JavaScript developer: MEAN stack zero-to-hero](http://courses.fullstacktraining.com/courses/mean-stack-zero-to-hero)
 * [Building AngularJS and Node.js Apps with the MEAN Stack](http://pluralsight.com/training/Courses/TableOfContents/building-angularjs-nodejs-apps-mean)
@@ -66,7 +66,7 @@ description: >-
 * [The 30 Day MEAN Stack Honolulu Challenge - Bossable](http://www.bossable.com/555/mean-app-challenge)
 * [egghead.io - Learn professional JavaScript tools](https://egghead.io)
 * [Become a MEAN Stack Developer - Code School](https://www.codeschool.com/mean)
-* [Build a course planner for a school with MEAN](https://www.youtube.com/watch?v=FrTxjO6waNs&list=PL8jcXf-CLpxpHNKYAY1GM_b6_L0FhFLe0)
+* [Build a course planner for a school with MEAN](https://www.youtube.com/watch?v=FrTxjO6waNs\&list=PL8jcXf-CLpxpHNKYAY1GM\_b6\_L0FhFLe0)
 * [Building angularJs and Nodejs apps with the Mean Stack](https://www.codeschool.com/pluralsight-courses/building-angularjs-and-node-js-apps-with-the-mean-stack/)
 * [Learn to Build Modern Web Apps with MEAN](https://thinkster.io/mean-stack-tutorial/)
 * [Setting Up a MEAN Stack Single Page Application](https://scotch.io/tutorials/setting-up-a-mean-stack-single-page-application)
@@ -88,7 +88,7 @@ description: >-
 * [Mean Stack, A Quick Start Guide](http://modernweb.com/2014/04/21/mean-stack-a-quick-start-guide/)
 * [Mean Stack Restful Api tutorial](http://michaelcheng.io/2015/04/01/mean-stack-restful-api-tutorial-using-node-js-express-angularjs-and-mongodb-to-build-a-contact-list-app/)
 
-## Books📚 
+## Books:books:&#x20;
 
 * [MEAN Web Development](https://www.packtpub.com/web-development/mean-web-development)
 * [Getting MEAN with Mongo, Express, Angular, and Node](http://www.manning.com/sholmes/)
@@ -99,19 +99,19 @@ description: >-
 * [Write Modern Web Apps with MEAN Stack by Jeff Dickey](https://www.amazon.com/Write-Modern-Apps-MEAN-Stack/dp/0133930157)
 * [Pro MEAN Stack Development](http://www.apress.com/us/book/9781484220436)
 
-## Slides 🎞 
+## Slides :film\_frames:&#x20;
 
-* [WELCOME TO THE MEAN STACK: MONGODB, EXPRESS, ANGULARJS, NODE](http://robrich.org/slides/welcome_to_the_mean_stack/#/)
+* [WELCOME TO THE MEAN STACK: MONGODB, EXPRESS, ANGULARJS, NODE](http://robrich.org/slides/welcome\_to\_the\_mean\_stack/#/)
 * [Get MEAN! Node.js and the MEAN stack](http://pt.slideshare.net/NicholasMcClay/get-mean-nodejs-and-the-mean-stack)
-* [MEAN Stack](https://speakerdeck.com/k_kato/mean-stack)
+* [MEAN Stack](https://speakerdeck.com/k\_kato/mean-stack)
 
-## Podcasts🎙 
+## Podcasts:microphone2:&#x20;
 
 * [092 JSJ The MEAN Stack with Ward Bell and Valeri Karpov](http://javascriptjabber.com/092-jsj-the-mean-stack-with-ward-bell-and-valeri-karpov/)
 
 ## More Useful Links
 
-*  [Mastering Mean Stack](https://masteringmean.com/)
+* &#x20;[Mastering Mean Stack](https://masteringmean.com/)
 * [THE DEAD-SIMPLE STEP-BY-STEP GUIDE FOR FRONT-END DEVELOPERS TO GETTING UP AND RUNNING WITH NODE.JS, EXPRESS, JADE, AND MONGODB](http://cwbuecheler.com/web/tutorials/2013/node-express-mongo/)
 * [CREATING A SIMPLE RESTFUL WEB APP WITH NODE.JS, EXPRESS, AND MONGODB](http://cwbuecheler.com/web/tutorials/2014/restful-web-app-node-express-mongodb/)
 * [Heroku - Cloud Application Platform](https://www.heroku.com)
@@ -121,4 +121,3 @@ description: >-
 * [AngularJS Learning](https://github.com/jmcunningham/AngularJS-Learning)
 * [JavaScript Recipes for MEAN stack](http://sahatyalkabov.com/jsrecipes/#!/)
 * [AngularJS Tutorial: A Comprehensive 10,000 Word Guide](https://www.airpair.com/angularjs)
-
