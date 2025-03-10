@@ -10,14 +10,10 @@ description: >-
 Hola Amigos!! :wave: \
 My name is Yash Sharma - Tech, DevRel and Community enthusiast. I LOVE to meet new people, discuss tech stuff, products and communities.
 
-![](<.gitbook/assets/Modern Photo Events and Education Facebook Post.png>)
-
-## Communities I Manage
+## Work
 
 * Currently working at Figment as Developer Relations
 * Formerly Developer Circles from Facebook - Jaipur (Core Team Member)
 * Formerly JaipurJS (Co-organizer)
-* Formerly Zubi (Z.Community) - Community Manager
+* Formerly Zubi - Community Manager
 * Formerly - Script Foundation India (North India Region Head)
-
-![Developer's Manifesto](.gitbook/assets/ezgif.com-webp-to-png.png)
